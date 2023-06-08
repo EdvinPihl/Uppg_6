@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(202, 210, 197);
+
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(82, 121, 111);
+    text-decoration: underline;
+}
